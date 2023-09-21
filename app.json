@@ -7,7 +7,7 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/PredatorHackerzZ/TG-FileStore",
+    "repository": "https://github.com/viro-net/TG-FileStore",
     "website": "https://telegram.dog/PredatorHackerzZ",
     "success_url": "https://t.me/TeleRoidGroup",
     "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
@@ -49,7 +49,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
