@@ -23,9 +23,9 @@ class Config(object):
 This is a Permanent FileStore Bot. 
 Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edit Permission, I will add save Uploaded File in Channel and Share a Shareable Link. 
 
-╭────[ **🔅FɪʟᴇSᴛᴏʀᴇBᴏᴛ🔅**]────⍟
+╭────[ **🔅File Store Bot🔅**]────⍟
 │
-├🔸 **My Name:** [FileStore Bot](https://t.me/{BOT_USERNAME})
+├🔸 **My Name:** [File Store Bot](https://t.me/{BOT_USERNAME})
 │
 ├🔸 **Language:** [Python 3](https://www.python.org)
 │
@@ -33,29 +33,29 @@ Send Me any Media or File. I can Work In Channel too. Add Me to Channel with Edi
 │
 ├🔹 **Hosted On:** [Heroku](https://heroku.com)
 │
-├🔸 **Developer:** [Predator HackerzZ](https://t.me/OwnYourBotz) 
+├🔸 **Developer:** [This Person](https://t.me/StupidBoi69) 
 │
-├🔹 **Bot Support:** [Support Group](https://t.me/TeleRoid14)
+├🔹 **Bot Support:** [Support Group](https://t.me/FeedbackChatz_Bot)
 │
-├🔸 **Bot Updates:** [Bots Channel](https://t.me/TeleRoidGroup)
+├🔸 **Bot Updates:** [Bots Channel](https://t.me/xTelegram_Bots)
 │
 ╰──────[ 😎 ]───────────⍟
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿:** [@PredatorHackerzZ](https://github.com/PredatorHackerzZ)
+🚼 **Developer:** @StupidBoi
  
  I am Super noob Please Support My Hard Work.
 
-[Donate Me](https://t.me/DonateXrobot) or ```MrAbhi2k3@apl```
+[Donate Me](https://t.me/FeedbackChatz_Bot) or @StupidBoi69
 """
 	HOME_TEXT = """
-Hello, [{}](tg://user?id={})\n\nThis is a Permanent **FileStore Bot**.
+Hello, [{}](tg://user?id={})\n\nThis is a Permanent **File Store Bot**.
 
 How to Use Bot & it's Benefits??
 
-📢 Send me any File & It will be uploaded in My Database & You will Get the File Link.
+🚹 Send me any File & It will be uploaded in My Database & You will Get the File Link.
 
-⚠️ Benefits: If you have a TeleGram Movie Channel or Any Copyright Channel, Then Its Useful for Daily Usage, You can Send Me Your File & I will Send Permanent Link to You & Channel will be Safe from **CopyRight Infringement** Issue. I support Channel Also You Can Check **About Bot**.
+🚺 Benefits: If you have a TeleGram Movie Channel or Any Copyright Channel, Then Its Useful for Daily Usage, You can Send Me Your File & I will Send Permanent Link to You & Channel will be Safe from **CopyRight Infringement** Issue. I support Channel Also You Can Check **About Bot**.
 
-❌ **PORNOGRAPHY CONTENTS** are strictly prohibited & get Permanent Ban.
+♿ **PORNOGRAPHY CONTENTS** are also allowed.
 """
